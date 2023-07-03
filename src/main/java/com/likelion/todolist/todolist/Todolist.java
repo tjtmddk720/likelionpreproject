@@ -1,4 +1,4 @@
 package com.likelion.todolist.todolist;
-
-public class Entity {
+//엔티티
+public class Todolist {
 }
